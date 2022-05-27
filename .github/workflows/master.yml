@@ -1,0 +1,57 @@
+# Trigger when commits are pushed to the master branch
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+  workflow_dispatch:
+
+
+jobs:
+  tfswitch-list-build:
+    name: Workflow
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Checkout go
+      uses: actions/setup-go@v2
+      with:
+        go-version: '^1.16' # The Go version to download (if necessary) and use.
+
+    - name: Go version
+      id: Version
+      run: go version
+
+    - name: Go ls
+      run: ls
+
+    - name: Go path
+      run: echo $GOPATH
+
+    - name: Go download
+      run: go mod download
+
+    - name: Go test
+      run: go test -v ./...
+      continue-on-error: true
+      
+    - name: Run Go
+      run: go run main.go
+      continue-on-error: false
+      
+    - name: Make Doc Dir
+      run: mkdir -p docs && mv index.json docs
+      continue-on-error: false
+      
+    - name: Git push
+      run: git config --global user.email "warren.veerasingam@gmail.com";  git config --global user.name "warren.veerasingam"; git add .; git commit -m "test";git push
+      continue-on-error: false
+      
+
+
