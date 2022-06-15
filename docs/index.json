@@ -82,6 +82,84 @@
    {
     "arch": "amd64",
     "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_darwin_amd64.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_darwin_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_freebsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_freebsd_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_freebsd_arm.zip"
+   },
+   {
+    "arch": "386",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_linux_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_linux_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_linux_arm.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_linux_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_openbsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_openbsd_amd64.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "solaris",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_solaris_amd64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_windows_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.2.3/terraform_1.2.3_windows_amd64.zip"
+   }
+  ],
+  "is_prerelease": false,
+  "LocalCacheTag": "",
+  "timestamp_created": "2022-06-15T17:56:17.787Z",
+  "version": "1.2.3"
+ },
+ {
+  "builds": [
+   {
+    "arch": "amd64",
+    "os": "darwin",
     "url": "https://releases.hashicorp.com/terraform/1.2.2/terraform_1.2.2_darwin_amd64.zip"
    },
    {
