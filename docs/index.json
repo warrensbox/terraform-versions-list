@@ -4,6 +4,84 @@
    {
     "arch": "amd64",
     "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_darwin_amd64.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_darwin_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_freebsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_freebsd_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_freebsd_arm.zip"
+   },
+   {
+    "arch": "386",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_linux_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_linux_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_linux_arm.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_linux_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_openbsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_openbsd_amd64.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "solaris",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_solaris_amd64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_windows_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.4.0-alpha20221109/terraform_1.4.0-alpha20221109_windows_amd64.zip"
+   }
+  ],
+  "is_prerelease": true,
+  "LocalCacheTag": "",
+  "timestamp_created": "2022-11-09T18:27:45.160Z",
+  "version": "1.4.0-alpha20221109"
+ },
+ {
+  "builds": [
+   {
+    "arch": "amd64",
+    "os": "darwin",
     "url": "https://releases.hashicorp.com/terraform/1.3.4/terraform_1.3.4_darwin_amd64.zip"
    },
    {
