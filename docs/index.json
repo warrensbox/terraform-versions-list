@@ -4,6 +4,84 @@
    {
     "arch": "amd64",
     "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_darwin_amd64.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_darwin_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_freebsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_freebsd_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_freebsd_arm.zip"
+   },
+   {
+    "arch": "386",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_linux_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_linux_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_linux_arm.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_linux_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_openbsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_openbsd_amd64.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "solaris",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_solaris_amd64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_windows_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_windows_amd64.zip"
+   }
+  ],
+  "is_prerelease": true,
+  "LocalCacheTag": "",
+  "timestamp_created": "2024-02-16T23:13:26.205Z",
+  "version": "1.8.0-alpha20240216"
+ },
+ {
+  "builds": [
+   {
+    "arch": "amd64",
+    "os": "darwin",
     "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240214/terraform_1.8.0-alpha20240214_darwin_amd64.zip"
    },
    {
