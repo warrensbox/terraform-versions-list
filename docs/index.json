@@ -628,6 +628,84 @@
    {
     "arch": "amd64",
     "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_darwin_amd64.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_darwin_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_freebsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_freebsd_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_freebsd_arm.zip"
+   },
+   {
+    "arch": "386",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_linux_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_linux_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_linux_arm.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_linux_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_openbsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_openbsd_amd64.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "solaris",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_solaris_amd64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_windows_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_windows_amd64.zip"
+   }
+  ],
+  "is_prerelease": false,
+  "LocalCacheTag": "",
+  "timestamp_created": "2024-09-18T08:33:58.942Z",
+  "version": "1.9.6"
+ },
+ {
+  "builds": [
+   {
+    "arch": "amd64",
+    "os": "darwin",
     "url": "https://releases.hashicorp.com/terraform/1.9.5/terraform_1.9.5_darwin_amd64.zip"
    },
    {
