@@ -4,6 +4,84 @@
    {
     "arch": "amd64",
     "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_darwin_amd64.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "darwin",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_darwin_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_freebsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_freebsd_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "freebsd",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_freebsd_arm.zip"
+   },
+   {
+    "arch": "386",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_linux_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_linux_amd64.zip"
+   },
+   {
+    "arch": "arm",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_linux_arm.zip"
+   },
+   {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_linux_arm64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_openbsd_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "openbsd",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_openbsd_amd64.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "solaris",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_solaris_amd64.zip"
+   },
+   {
+    "arch": "386",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_windows_386.zip"
+   },
+   {
+    "arch": "amd64",
+    "os": "windows",
+    "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240926/terraform_1.10.0-alpha20240926_windows_amd64.zip"
+   }
+  ],
+  "is_prerelease": true,
+  "LocalCacheTag": "",
+  "timestamp_created": "2024-09-26T10:52:00.287Z",
+  "version": "1.10.0-alpha20240926"
+ },
+ {
+  "builds": [
+   {
+    "arch": "amd64",
+    "os": "darwin",
     "url": "https://releases.hashicorp.com/terraform/1.10.0-alpha20240918/terraform_1.10.0-alpha20240918_darwin_amd64.zip"
    },
    {
