@@ -726,14 +726,19 @@
     "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_amd64.zip"
    },
    {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_arm64.zip"
+   },
+   {
     "arch": "arm",
     "os": "linux",
     "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_arm.zip"
    },
    {
-    "arch": "arm64",
+    "arch": "s390x",
     "os": "linux",
-    "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_arm64.zip"
+    "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_s390x.zip"
    },
    {
     "arch": "386",
