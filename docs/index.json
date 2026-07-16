@@ -37,14 +37,19 @@
     "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260715/terraform_1.16.0-alpha20260715_linux_amd64.zip"
    },
    {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260715/terraform_1.16.0-alpha20260715_linux_arm64.zip"
+   },
+   {
     "arch": "arm",
     "os": "linux",
     "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260715/terraform_1.16.0-alpha20260715_linux_arm.zip"
    },
    {
-    "arch": "arm64",
+    "arch": "s390x",
     "os": "linux",
-    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260715/terraform_1.16.0-alpha20260715_linux_arm64.zip"
+    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260715/terraform_1.16.0-alpha20260715_linux_s390x.zip"
    },
    {
     "arch": "386",
@@ -120,14 +125,19 @@
     "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260708/terraform_1.16.0-alpha20260708_linux_amd64.zip"
    },
    {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260708/terraform_1.16.0-alpha20260708_linux_arm64.zip"
+   },
+   {
     "arch": "arm",
     "os": "linux",
     "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260708/terraform_1.16.0-alpha20260708_linux_arm.zip"
    },
    {
-    "arch": "arm64",
+    "arch": "s390x",
     "os": "linux",
-    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260708/terraform_1.16.0-alpha20260708_linux_arm64.zip"
+    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260708/terraform_1.16.0-alpha20260708_linux_s390x.zip"
    },
    {
     "arch": "386",
@@ -203,14 +213,19 @@
     "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260706/terraform_1.16.0-alpha20260706_linux_amd64.zip"
    },
    {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260706/terraform_1.16.0-alpha20260706_linux_arm64.zip"
+   },
+   {
     "arch": "arm",
     "os": "linux",
     "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260706/terraform_1.16.0-alpha20260706_linux_arm.zip"
    },
    {
-    "arch": "arm64",
+    "arch": "s390x",
     "os": "linux",
-    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260706/terraform_1.16.0-alpha20260706_linux_arm64.zip"
+    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260706/terraform_1.16.0-alpha20260706_linux_s390x.zip"
    },
    {
     "arch": "386",
@@ -286,14 +301,19 @@
     "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260701/terraform_1.16.0-alpha20260701_linux_amd64.zip"
    },
    {
+    "arch": "arm64",
+    "os": "linux",
+    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260701/terraform_1.16.0-alpha20260701_linux_arm64.zip"
+   },
+   {
     "arch": "arm",
     "os": "linux",
     "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260701/terraform_1.16.0-alpha20260701_linux_arm.zip"
    },
    {
-    "arch": "arm64",
+    "arch": "s390x",
     "os": "linux",
-    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260701/terraform_1.16.0-alpha20260701_linux_arm64.zip"
+    "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260701/terraform_1.16.0-alpha20260701_linux_s390x.zip"
    },
    {
     "arch": "386",
